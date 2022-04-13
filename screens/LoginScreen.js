@@ -7,7 +7,7 @@ const LoginScreen =() => {
       <Text
       style={styles.yourOneText}>YourOneOneONEONE</Text>
       <Text
-      style={styles.yourOneSays}>Your modern bible app</Text>
+      style={styles.yourOneSays}>Your modern bible appAPAPAPA</Text>
     </View>
   );
 };
