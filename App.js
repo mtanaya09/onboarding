@@ -1,9 +1,8 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-
 import OnboardingScreen from './screens/OnboardingScreen';
-import LoginScreen from './screens/LoginScreen';
+import MainScreen from './screens/MainScreen';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
@@ -40,8 +39,8 @@ const App = () => {
             />)}
             
               <AppStack.Screen 
-                name="Login" 
-                component={LoginScreen} 
+                name="MainScreen" 
+                component={MainScreen} 
                 options={{ headerShown: false }}/>
                 
           </AppStack.Navigator>

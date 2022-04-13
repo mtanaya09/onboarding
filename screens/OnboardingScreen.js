@@ -8,8 +8,8 @@ const OnboardingScreen = ({navigation}) => {
   return (
 
     <Onboarding
-        onSkip={() => navigation.navigate("Login")}
-        onDone={() => navigation.navigate("Login")}
+        onSkip={() => navigation.navigate("MainScreen")}
+        onDone={() => navigation.navigate("MainScreen")}
 
         pages={[
             {
