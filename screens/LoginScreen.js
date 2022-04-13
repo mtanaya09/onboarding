@@ -5,9 +5,9 @@ const LoginScreen =() => {
   return (
     <View style={styles.container}>
       <Text
-      style={styles.yourOneText}>YourOneOneONEONE</Text>
+      style={styles.yourOneText}>YourOne</Text>
       <Text
-      style={styles.yourOneSays}>Your modern bible appAPAPAPA</Text>
+      style={styles.yourOneSays}>Your modern bible</Text>
     </View>
   );
 };
