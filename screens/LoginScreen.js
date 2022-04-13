@@ -5,7 +5,7 @@ const LoginScreen =() => {
   return (
     <View style={styles.container}>
       <Text
-      style={styles.yourOneText}>YourOne</Text>
+      style={styles.yourOneText}>YourOneOne</Text>
       <Text
       style={styles.yourOneSays}>Your modern bible app</Text>
     </View>
