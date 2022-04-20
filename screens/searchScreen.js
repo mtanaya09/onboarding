@@ -4,7 +4,7 @@ import React from 'react';
 const SearchScreen = () => {
   return (
     <View style={{ flex: 1, backgroundColor: "green", alignItems: "center" }}>
-    <Text style={{ margin: 90, fontSize: 28 }}>This is a Search Screen</Text>
+    <Text style={{ margin: 90, fontSize: 35 }}>Search Screen</Text>
     </View>
   )
 }

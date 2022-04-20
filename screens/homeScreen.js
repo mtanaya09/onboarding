@@ -5,7 +5,7 @@ import LottieView from 'lottie-react-native';
 const HomeScreen = () => {
   return (
     <View style={{ flex: 1, backgroundColor: "skyblue", alignItems: "center" }}>
-    <Text style={{ margin: 90, fontSize: 28 }}>This is a Home Screen</Text>
+    <Text style={{ margin: 90, fontSize: 35 }}>Bible Home Screen</Text>
   </View>
   );
 };

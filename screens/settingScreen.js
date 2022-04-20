@@ -4,7 +4,7 @@ import React from 'react';
 const SettingsScreen = () => {
   return (
     <View style={{ flex: 1, backgroundColor: "yellow", alignItems: "center" }}>
-    <Text style={{ margin: 90, fontSize: 28 }}>This is a Settings Screen</Text>
+    <Text style={{ margin: 90, fontSize: 35 }}>Settings Screen</Text>
     </View>
   )
 }
